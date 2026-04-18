@@ -1,2 +1,2 @@
-# JBDL_DigitalWallet
-This repo has contains code of DigitalWalllet project
+Foler is empty now
+
